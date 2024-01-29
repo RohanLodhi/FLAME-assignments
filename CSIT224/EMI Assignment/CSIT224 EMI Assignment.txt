@@ -1,0 +1,12 @@
+CSIT224 EMI Assignment 
+
+Problems encountered: 
+
+1. Calculating (1 + r)^n
+In order to calculate the value raised to the nth power, we would have to use the pow function provided by the <math.h> library. However, using the math library would mean making our code dependent and not written completely from scratch. To overcome this hurdle, we can create our own power function instead that calculates a value raised to an arbitrary nth value. 
+
+2. Monthly interest rate 
+Before passing the value to the functions we have to ensure to convert annual interest rate into monthly. Monthly interest rate = annual/12.0 / 100.0
+
+3. Formatting the output 
+I encountered a challenge with ensuring consistent alignment, especially for the principal amount under the "Principal" column. The issue became more apparent when the interest amount exceeded 10000.00, leading to misalignment in the output. To address this, I decided to adopt a fixed-width approach in the printf statement instead of using tabs, ensuring each column had a specific width for the output. I managed to attain a uniform display of the payment schedule which resolved the alignment problems.
