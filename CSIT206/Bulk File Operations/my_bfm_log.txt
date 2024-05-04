@@ -1,0 +1,10 @@
+[2024-03-05 11:40:16] Created: ./hello
+[2024-03-05 11:40:32] Created: ./hello/hgello.txt
+[2024-03-05 11:41:01] Deleted file: ./hello/hgello.txt
+[2024-03-05 11:41:01] Deleted directory: ./hello
+[2024-03-05 11:41:01] Deleted: ./hello
+[2024-03-05 11:42:26] Created: ./hello
+[2024-03-05 11:42:26] Created: ./hello/hello.txt
+[2024-03-05 13:38:01] Binary Added: ./binary_sample
+[2024-03-05 13:38:51] Text Added: ./log.txt
+[2024-03-05 13:39:29] Binary Added: ./binary_sample

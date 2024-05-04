@@ -1,0 +1,139 @@
+[
+  {
+    "match_detail": {
+      "match_id": 1692,
+      "match_number": "Match 8",
+      "clock": {
+        "minutes": 0,
+        "seconds": 0
+      },
+      "date": "7/24/2019",
+      "start_time": "20:30",
+      "matchtime_iso": "7/24/2019 15:00:00",
+      "gmtoffset": "+5:30",
+      "result": {
+        "outcome": null,
+        "value": "Dabang Delhi K.C. Beat Telugu Titans  (34-33 )",
+        "winning_method": "W",
+        "winning_team": "Dabang Delhi K.C.",
+        "winning_team_id": 2
+      },
+      "player_of_the_match": [
+        {
+          "id": 2296,
+          "value": "Naveen Kumar"
+        }
+      ],
+      "series": {
+        "id": 49,
+        "name": "Pro Kabaddi League Season 7, 2019",
+        "short_name": "Pro Kabaddi League Season 7, 2019",
+        "parent_series_id": 1,
+        "parent_series_name": "Pro Kabaddi League"
+      },
+      "status_id": 5,
+      "status": "Full Time",
+      "toss": {
+        "winner": 2,
+        "selection": "Choice of court"
+      },
+      "venue": {
+        "id": 9,
+        "name": "Gachibowli Indoor Stadium, Hyderabad"
+      },
+      "stage": "League",
+      "group": ""
+    },
+    "teams": {
+      "home_team_id": "8",
+      "home_team_name": "Telugu Titans",
+      "team": [
+        {
+          "id": "8",
+          "name": "Telugu Titans",
+          "score": 33,
+          "short_name": "HYD",
+          "squad": [
+            {
+              "id": 115,
+              "name": "Suraj Desai",
+              "short_name": "",
+              "skill": "",
+              "role": "All-Rounder",
+              "red_card": false,
+              "yellow_card": false,
+              "green_card": false,
+              "jersey": 8,
+              "played": true,
+              "captain": false,
+              "on_court": true,
+              "starter": true,
+              "top_raider": true,
+              "points": {
+                "total": 18,
+                "raid_points": {
+                  "total": 18,
+                  "touch": 13,
+                  "raid_bonus": 5
+                },
+                "tackle_points": {
+                  "total": 0,
+                  "capture": 0,
+                  "capture_bonus": 0
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+    },
+    "events": {
+      "event": [
+        {
+          "event_no": 1,
+          "event_half": 1,
+          "event": "Successful Raid",
+          "event_id": 1,
+          "event_text": "Suraj Desai raids successfully",
+          "raider_id": 115,
+          "raiding_team_id": 8,
+          "defender_id": null,
+          "defending_team_id": 2,
+          "raid_points": 2,
+          "raid_touch_points": 2,
+          "raid_bonus_points": 0,
+          "raid_technical_points": 0,
+          "raid_all_out_points": 0,
+          "defending_capture_points": 0,
+          "defending_bonus_points": 0,
+          "defending_technical_points": 0,
+          "defending_all_out_points": 0,
+          "super_raid": false,
+          "super_tackle": false,
+          "do_or_die": false,
+          "super_ten": false,
+          "high_five": false,
+          "review": {
+            "review_taken": false,
+            "team_id": 0,
+            "outcome": null,
+            "reason": null
+          },
+          "defending_points": 0,
+          "clock": "20:00",
+          "status_id": 2,
+          "score": [
+            2,
+            0
+          ],
+          "seq_no": 1,
+          "defenders": [
+            157,
+            311
+          ]
+        }
+      ]
+    }
+]
+  

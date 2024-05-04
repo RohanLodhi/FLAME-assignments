@@ -1,0 +1,5 @@
+Comparison,Metric,T-Statistic
+Attack vs Defense,T-Statistic,27.9194
+Defense vs Extra,T-Statistic,76.8398
+Defense vs Allout,T-Statistic,57.3543
+Allout vs Extra,T-Statistic,31.5379
